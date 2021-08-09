@@ -1,0 +1,33 @@
+.heading
+{
+width:100%;
+text-align:center;
+}
+.heading h3
+{
+color:cyan;
+display:inline;
+}
+.heading button
+{
+float:right;
+border:1px solid darkgrey;
+}
+#start
+{
+font-size:20px;
+}
+#status
+{
+font-size:20px;
+}
+h4
+{
+line-height:2;
+margin:0px;
+background-color:lightgray;
+}
+.modal-dialog
+{
+width:90%;
+}
